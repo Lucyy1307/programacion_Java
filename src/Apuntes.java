@@ -8,6 +8,7 @@
 //control d -- copia todo
 //alt shift . -- aumentar tamaño de letra
 //alt shift , -- disminuir tamaño de letra
+// alt -- multiselección vertical
 
 
 public class Apuntes {
