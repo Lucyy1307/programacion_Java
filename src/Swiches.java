@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Swiches {
     public static void main(String[] args) {
         int num;
+        double nume = 0;
         Scanner sc = new Scanner(System.in);
         System.out.println("Introduce el caso que busques del 1 al 5");
 
