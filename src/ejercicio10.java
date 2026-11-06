@@ -33,6 +33,7 @@ public class ejercicio10 {
             salarynet = salarybrut - 500;
             imp1 = salarynet * 0.25;
             }
+
         if (salarybrut > 900) {
             salarynet = salarybrut - 900;
             imp2 = salarynet * 0.45;
