@@ -9,7 +9,7 @@ public class Ejercicio13 {
 
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("YIHAAAAAA");
+        System.out.println("Introduzca su DNI");
         dni = sc.nextLine();
 
         n1 = (dni.charAt(0) - '0') * 10000000;
