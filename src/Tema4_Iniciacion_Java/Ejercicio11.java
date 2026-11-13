@@ -1,3 +1,5 @@
+package Tema4_Iniciacion_Java;
+
 import java.util.Scanner;
 
 public class Ejercicio11 {

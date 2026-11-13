@@ -1,4 +1,4 @@
-// shift f6 -- cambia las variables
+package Tema4_Iniciacion_Java;// shift f6 -- cambia las variables
 // control alt L -- pone to bonico
 // control shift -- mover lineas de código
 //control shift F10 -- ejecutar el archivo
