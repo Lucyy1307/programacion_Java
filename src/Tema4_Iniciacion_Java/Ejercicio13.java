@@ -13,7 +13,7 @@ public class Ejercicio13 {
 
         System.out.println("Introduzca su DNI");
         dni = sc.nextLine();
-        number = Integer.parseInt(dni);
+        number = Integer.parseInt(dni.chars(0,1,2,3,4,5,6));
 
         letter = dni.charAt(8);
         position = number % 23;
