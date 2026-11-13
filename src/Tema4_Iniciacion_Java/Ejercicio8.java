@@ -2,7 +2,7 @@ package Tema4_Iniciacion_Java;
 
 import java.util.Scanner;
 
-public class ejercicio8 {
+public class Ejercicio8 {
     public static void main(String[] args) {
 
         double nota;

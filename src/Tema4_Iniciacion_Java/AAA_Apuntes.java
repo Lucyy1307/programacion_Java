@@ -11,7 +11,7 @@ package Tema4_Iniciacion_Java;// shift f6 -- cambia las variables
 // alt -- multiselección vertical
 
 
-public class Apuntes {
+public class AAA_Apuntes {
     public static void main (String[]args){
 
         System.out.print("hola");

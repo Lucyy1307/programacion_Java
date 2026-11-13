@@ -2,7 +2,7 @@ package Tema4_Iniciacion_Java;
 
 import java.util.Scanner;
 
-public class ejercicio10 {
+public class Ejercicio10 {
     public static void main(String[] args) {
         double imp1, imp2, salarynet, salarybrut, price, mult;
         int hour;

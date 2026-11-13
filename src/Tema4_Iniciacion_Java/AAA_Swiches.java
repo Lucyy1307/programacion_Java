@@ -2,7 +2,7 @@ package Tema4_Iniciacion_Java;
 
 import java.util.Scanner;
 
-public class Swiches {
+public class AAA_Swiches {
     public static void main(String[] args) {
         int num;
         double nume = 0;

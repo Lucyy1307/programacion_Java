@@ -2,7 +2,7 @@ package Tema4_Iniciacion_Java;
 
 import java.util.Scanner;
 
-public class ejercicio7 {
+public class Ejercicio7 {
     public static void main (String[]args) {
         double num1, num2, num3;
 

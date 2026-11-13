@@ -2,7 +2,7 @@ package Tema4_Iniciacion_Java;
 
 import java.util.Scanner;
 
-public class ejercicio9 {
+public class Ejercicio9 {
     public static void main (String[]args){
         int hour, minute, second ;
 

@@ -2,7 +2,7 @@ package Tema4_Iniciacion_Java;
 
 import java.util.Scanner;
 
-public class ejercicio4 {
+public class Ejercicio4 {
     public static void main(String[]args){
         double realPrice, price, discount ;
 
