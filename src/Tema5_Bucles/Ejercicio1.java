@@ -1,6 +1,6 @@
 package Tema5_Bucles;
 
-public class Ejercicio15 {
+public class Ejercicio1 {
     public static void main(String[] args){
 
     }
