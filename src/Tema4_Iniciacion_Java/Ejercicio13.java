@@ -6,7 +6,7 @@ public class Ejercicio13 {
     public static void main(String[] args) {
         final String BIBLIOTECA = "TRWAGMYFPDXBNJZSQVHLCKE";
         int  number, position;
-        String dni, substring_;
+        String dni;
         char letter;
 
         Scanner sc = new Scanner(System.in);
@@ -14,8 +14,7 @@ public class Ejercicio13 {
         System.out.println("Introduzca su DNI");
         dni = sc.nextLine();
 
-        substring_ = dni.substring(0,8);
-        number = Integer.parseInt(substring_);
+        number = Integer.parseInt(dni.substring(0,8));
 
         letter = dni.charAt(8);
         position = number % 23;
