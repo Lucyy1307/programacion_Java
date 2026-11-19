@@ -15,9 +15,9 @@ public class Ejercicio7 {
             num++;
             if (sc.nextInt()< 0) {
                 negative++;
+
             }
         }
-
         System.out.println("Hay " +negative+ " números negativos");
         System.out.println("Hay " +(num-negative)+ " números positivos");
     }
