@@ -12,7 +12,6 @@ public class Ejercicio3 {
             numbers[i] = sc.nextInt();
             for(int number : numbers){
                 max = Math.max(max,number);
-
             }
         }
         System.out.println(max);
